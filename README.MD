@@ -8,8 +8,6 @@ This project is based on the Create, Read, Update and Delete (CRUD) processes to
 
 `C#` is a very performant programming language and is one of my favorites for developing simpler applications, even though the language has great potential to be used anywhere, in addition to its syntax, it makes me feel comfortable because it is very similar to `C++` that it is my main language, the large set of libraries make development much faster and scalable to the point of developing an API in just a few minutes.
 
-### Project
-The Project consists of 4 endpoints, which return Client requests and save the data in an SQLite database.
 
 #### Endpoints:
 
